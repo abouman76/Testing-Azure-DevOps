@@ -15,7 +15,7 @@ describe('Search Books Azure DevOps Tutorial', () => {
         cy.get('li:not(.ui-screen-hidden')
             .should('have.length', 1);
 
-        cy.get('h2').should('contain.text', bookOne, `${bookOne} should be visiblenpx`)
+        cy.get('h2').should('contain.text', bookOne, `${bookOne} should be visible`)
     });
 
     it('Should search for books with title that contains: "test"', () => {

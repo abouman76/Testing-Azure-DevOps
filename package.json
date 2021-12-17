@@ -1,0 +1,22 @@
+{
+  "name": "cypress-azure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abouman76/Testing-Azure-DevOps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abouman76/Testing-Azure-DevOps/issues"
+  },
+  "homepage": "https://github.com/abouman76/Testing-Azure-DevOps#readme",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  }
+}
